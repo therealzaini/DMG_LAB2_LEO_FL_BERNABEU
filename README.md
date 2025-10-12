@@ -1,3 +1,3 @@
-## Lab 2
+## Lab 3
 
-This is lab 2.
+This is lab 3.
